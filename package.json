@@ -1,0 +1,29 @@
+{
+  "name": "cf-left-pad",
+  "version": "0.0.1",
+  "description": "String left pad",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "devDependencies": {
+    "tape": "*"
+  },
+  "keywords": [
+    "leftpad",
+    "left",
+    "pad",
+    "padding",
+    "string",
+    "codefresh"
+  ],
+  "repository": {
+    "url": "git@github.com:otomato-gh/cf-left-pad.git",
+    "type": "git"
+  },
+  "author": "azer",
+  "maintainers": [
+    {"name": "Anton Weiss", "email": "ant.weiss@gmail.com"}
+  ],
+  "license": "WTFPL"
+}
