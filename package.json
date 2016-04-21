@@ -1,6 +1,6 @@
 {
   "name": "cf-left-pad",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "String left pad",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,10 @@
   },
   "author": "azer",
   "maintainers": [
-    {"name": "Anton Weiss", "email": "ant.weiss@gmail.com"}
+    {
+      "name": "Anton Weiss",
+      "email": "ant.weiss@gmail.com"
+    }
   ],
   "license": "WTFPL"
 }
