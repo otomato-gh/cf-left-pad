@@ -1,6 +1,6 @@
 {
   "name": "cf-left-pad",
-  "version": "0.0.22",
+  "version": "0.0.23",
   "description": "String left pad",
   "main": "index.js",
   "scripts": {
